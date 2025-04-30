@@ -1,0 +1,9 @@
+transformers
+accelerate
+datasets
+evaluate
+tensorboard
+GPUtil
+psutil
+scikit-learn
+deepspeed
